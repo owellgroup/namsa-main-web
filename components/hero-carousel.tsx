@@ -18,7 +18,7 @@ export function HeroCarousel() {
     },
     {
       type: "image",
-      src: "/images/slider2.jpg",
+      src: "https://1rtratxi2xcqflcd.public.blob.vercel-storage.com/Slider2.jpg",
       title: "EMPOWERING NAMIBIAN ARTISTS",
       description:
         "From traditional sounds to modern beats, we protect and promote the diverse musical heritage of Namibia.",
