@@ -25,7 +25,7 @@ export default function AboutPage() {
       description: "Bridging traditional music culture with modern digital distribution systems",
     },
     {
-      src: "https://1rtratxi2xcqflcd.public.blob.vercel-storage.com/Slider2.jpg",
+      src: "https://1rtratxi2xcqflcd.public.blob.vercel-storage.com/slide2.jpg",
       alt: "Diverse Talent",
       title: "Talent Development",
       description: "Showcasing and nurturing the incredible diversity of Namibian musical talent",
